@@ -1,0 +1,9 @@
+Pair of cards
+
+手札から強いpairを探すゲーム。
+
+1: Pairの強さ
+    A < AA < AAA < AAAA
+
+2: Cardの強さ
+    2 < 3 < 4 < ..... Q < K < A
